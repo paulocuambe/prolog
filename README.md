@@ -2,10 +2,6 @@
 
 Programação baseada em lógica matemática.
 
-## Notas gerais
-
-- As variáveis em prolog começam com letras maiusculas ou _undescore_ (\_);
-
 ## Tipos de dados
 
 Todo tipo de dado em prolog é chamado de `termo` que por sua vez pode classificado como:
